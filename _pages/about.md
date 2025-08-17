@@ -18,9 +18,11 @@ redirect_from:
 
 Hello, I'm Fengyu Liu, a Ph.D. student in the System and Software Security Laboratory at Fudan University, advised by Prof. [Yuan Zhang](https://yuanxzhang.github.io/) and Prof. [Min Yang](https://scholar.google.com/citations?user=UnKf9FIAAAAJ&hl=en). I am also the captain of Whitzard, a great CTF team at Fudan University.
 
-My research interests includes **web security** and **LLM-based agent security**. To date, I have published 7 papers at top-tier international security conferences, including IEEE S&P, ACM CCS, and USENIX Security, with one receiving the Distinguished Paper Award at S&P'25. Moreover, my research has been adopted by leading companies such as **Alibaba, ByteDance, and Huawei**, and acknowledged in security advisories by major tech companies including Apple, Microsoft, and Intel.
+My research interests includes **web security** and **LLM-based agent security**. To date, I have published 8 papers at top-tier international security conferences, including IEEE S&P, ACM CCS, and USENIX Security, with one receiving the Distinguished Paper Award at S&P'25. Moreover, my research has been adopted by leading companies such as **Alibaba, ByteDance, and Huawei**, and acknowledged in security advisories by major tech companies including Apple, Microsoft, and Intel.
 
 # 🔥 News
+- [*2025.08*] &nbsp;🎉 One paper accepted by **CCS 2025**!
+- [*2025.08*] &nbsp;🎉 One paper received <span style="color:#B00C00">**Honerable Mention Award**</span> at USENIX Security 2025!
 - [*2025.06*] &nbsp;🎉 Three papers accepted by **USENIX Security 2025**!
 - [*2025.05*] &nbsp;🎉 One talk accepted by **BlackHat USA 2025**!
 - [*2025.05*] &nbsp;🎉 Our paper received <span style="color:#B00C00">**Distinguished Paper Award**</span> at IEEE S&P 2025!
@@ -31,15 +33,20 @@ My research interests includes **web security** and **LLM-based agent security**
 
 
 # 📝 Publications 
-- `USENIX Security'25` **Make Agent Defeat Agent: Automatic Detection of Taint-Style Vulnerabilities in LLM-based Agents** [PDF]  
+- `CCS'25` **Be Aware of What You Let Pass: Demystifying URL-based Authentication Bypass Vulnerability in Java Web Applications** [PDF]  
+  Qiyi Zhang<sup>\*</sup>, <u>Fengyu Liu<sup>*</sup></u>, Zihan Lin, Yuan Zhang.  
+  In *Proceedings of the 32nd ACM Conference on Computer and Communications Security (CCS)*, October 2025. (<span style="color:#B00C00">CCF-A</span>)  
+
+- `USENIX Security'25` **Make Agent Defeat Agent: Automatic Detection of Taint-Style Vulnerabilities in LLM-based Agents** [[PDF](/paper/agentfuzz-security25.pdf)]  
   <u>Fengyu Liu</u>, Yuan Zhang, Jiaqi Luo, Jiarun Dai, Tian Chen, Letian Yuan, Zhengmin Yu, Youkun Shi, Ke Li, Hao Chen, Min Yang.  
   In *Proceedings of the 34th USENIX Security Symposium (USENIX Security)*, August 2025. (<span style="color:#B00C00">CCF-A</span>)   
   
-- `USENIX Security'25` **Pig in a Poke: Automatically Detecting and Exploiting Link Following Vulnerabilities in Windows File Operations** [PDF]  
+- `USENIX Security'25` **Pig in a Poke: Automatically Detecting and Exploiting Link Following Vulnerabilities in Windows File Operations** [[PDF](/paper/linkzard-security25.pdf)]  
   Bocheng Xiang, Yuan Zhang, <u>Fengyu Liu</u>, Hao Huang, Zihan Lin, Min Yang.  
   In *Proceedings of the 34th USENIX Security Symposium (USENIX Security)*, August 2025. (<span style="color:#B00C00">CCF-A</span>)   
+  **<font color="#B00C00">&#9733; Honerable Mention Award (6.1%=25/407)</font>**
 
-- `USENIX Security'25` **XSSky: Detecting XSS Vulnerabilities through Local Path-Persistent Fuzzing** [PDF]  
+- `USENIX Security'25` **XSSky: Detecting XSS Vulnerabilities through Local Path-Persistent Fuzzing** [[PDF](/paper/xssky-security25.pdf)]  
   Youkun Shi, Yuan Zhang, Tianhao Bai, Feng Xue, Jiarun Dai, <u>Fengyu Liu</u>, Lei Zhang, Xiapu Luo, Min Yang.  
   In *Proceedings of the 34th USENIX Security Symposium (USENIX Security)*, August 2025. (<span style="color:#B00C00">CCF-A</span>)   
 
