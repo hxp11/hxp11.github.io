@@ -76,6 +76,8 @@
   justify-content: flex-start;
   align-content: flex-start;
   align-items: center;
+  max-width: 100%; // 限制最大宽度为父容器宽度
+  overflow-x: auto; // 允许横向滚动
 }
 
 .author__avatar {
