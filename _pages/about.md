@@ -16,14 +16,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, I'm Xupu Hu, a master's student at [Nanjing University of Science and Technology](https://scs.njust.edu.cn/main.htm), advised by Dr. [Ming Zhou](https://teacher.njust.edu.cn/wlkjaq/zm/list.htm) and Prof. [Peng Zhang](https://teacher.njust.edu.cn/wlkjaq/zp/list.htm). 
+Hello, I'm **Xupu Hu**, a master's student at [Nanjing University of Science and Technology](https://scs.njust.edu.cn/main.htm), advised by Dr. [Ming Zhou](https://teacher.njust.edu.cn/wlkjaq/zm/list.htm) and Prof. [Peng Zhang](https://teacher.njust.edu.cn/wlkjaq/zp/list.htm). 
 
 I specialize in **systems** and **firmware security**. During my master's studies, my research focus was on **live patching technologies for embedded systems**. Additionally, I have a research interest in using Large Language Models (LLMs) to solve traditional challenges in the field of program analysis and to build efficient and intelligent binary program analysis tools. I am building a secure and reliable automated live patching system.
 
 
-📣 I am seeking <span style="color: red;">PhD</span> opportunities for September 2026.🥺
+# 📣 I am seeking <span style="color: red;">PhD</span> opportunities for September 2026.🥺
 
-Here are my *CV-EN* [[PDF](/paper/CV_26_Fall_Phd_XupuHu.pdf)] and *CV-ZH* [[pdf](/paper/呼栩朴中文学术简历.pdf)], last updated in Aug. 2025.
+Here are my *CV-EN* [[pdf](/paper/CV_26_Fall_Phd_XupuHu.pdf)] and *CV-ZH* [[pdf](/paper/呼栩朴中文学术简历.pdf)], last updated in Aug. 2025.
 
 # 🔥 News
 - [*2025.08*] &nbsp;🎉 One paper accepted by **CCS 2025**, and this achievement has been featured in the [school's news](https://scs.njust.edu.cn/65/96/c15611a353686/page.htm)! 
