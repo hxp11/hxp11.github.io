@@ -34,15 +34,15 @@ I specialize in **systems** and **firmware security**. During my master's studie
 
 # 📝 Publications 
 - `CCS'25` **Dynamic Vulnerability Patching for Heterogeneous Embedded Systems Using Stack Frame Reconstruction** [PDF]  
-  Ming Zhou<sup>\*</sup> , <u>Xupu Hu</u>, Zhihao Wang, Haining Wang, Hui Wen, Limin Sun, Peng Zhang<sup>\*</sup>
+  Ming Zhou, <u>Xupu Hu</u>, Zhihao Wang, Haining Wang, Hui Wen, Limin Sun, Peng Zhang
   In *Proceedings of the 32nd ACM Conference on Computer and Communications Security (CCS)*, October 2025. (<span style="color:#B00C00">CCF-A</span>), **supervisor as the first author**.  
 
 - `AIoTSys'25` **BluePLP: Dynamic Vulnerability Patching for Heterogeneous BLE Devices** [PDF]   
-  <u>Xupu Hu</u>, Zhongfeng Jin, Tongjie Wei, Peng Zhang<sup>\*</sup> , Chonghua Wang, Ming Zhou<sup>\*</sup> 
+  <u>Xupu Hu</u>, Zhongfeng Jin, Tongjie Wei, Peng Zhang , Chonghua Wang, Ming Zhou 
   In *International conference on Artificial Intelligence of Things and Systems (AIoTSys)*, August 2025. (AR: 38.9%, 37 / 95; <span style="color:#B00C00">Best paper finalist</span>, 8 / 37), **first author**.  
   
 - `Nana'25` **Characterizing Network Threats Against Industrial Control Systems Using Honeypot Technology** [PDF]  
-  Ming Zhou<sup>\*</sup>, Yunjun Ma, <u>Xupu Hu</u>, Ran Lin, Qiwen Wang, Weixuan Mao, Chengxiang Si 
+  Ming Zhou, Yunjun Ma, <u>Xupu Hu</u>, Ran Lin, Qiwen Wang, Weixuan Mao, Chengxiang Si 
   In *International Conference on Networking and Network Applications (Nana)*, August 2025. **supervisor as the first author**.    
  
 <!-- - `Nana'25` **Pig in a Poke: Automatically Detecting and Exploiting Link Following Vulnerabilities in Windows File Operations** [[PDF](/paper/linkzard-security25.pdf)]  
