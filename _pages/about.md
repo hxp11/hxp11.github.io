@@ -41,7 +41,7 @@ I specialize in **systems** and **firmware security**. During my master's studie
   <u>Xupu Hu</u>, Zhongfeng Jin, Tongjie Wei, Peng Zhang<sup>\*</sup> , Chonghua Wang, Ming Zhou<sup>\*</sup> 
   In *International conference on Artificial Intelligence of Things and Systems (AIoTSys)*, August 2025. (AR: 38.9%, 37 / 95; <span style="color:#B00C00">Best paper finalist</span>, 8 / 37), **First Author**.  
   
-- `Nana'25` **Characterizing Network Threats Against Industrial Control Systems Using Honeypot Technology** [PDF]
+- `Nana'25` **Characterizing Network Threats Against Industrial Control Systems Using Honeypot Technology** [PDF]  
   Ming Zhou<sup>\*</sup>, Yunjun Ma, <u>Xupu Hu</u>, Ran Lin, Qiwen Wang, Weixuan Mao, Chengxiang Si 
   In *International Conference on Networking and Network Applications (Nana)*, August 2025. **Student Second Author**.    
  
