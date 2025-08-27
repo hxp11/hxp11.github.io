@@ -23,6 +23,8 @@ I specialize in **systems** and **firmware security**. During my master's studie
 
 📣 I am seeking <span style="color: red;">PhD</span> opportunities for September 2026.🥺
 
+Here are my [CV-PDF][[PDF](/paper/linkzard-security25.pdf)] and [中文简历] for your reference, last updated in Aug. 2025.
+
 # 🔥 News
 - [*2025.07*] &nbsp;🎉 One paper accepted by **CCS 2025**!
 - [*2025.07*] &nbsp;🎉 One paper accepted by **AIoTSys 2025**!
@@ -55,14 +57,14 @@ I specialize in **systems** and **firmware security**. During my master's studie
 - *2022.09*: 1st Place of The 13th National College Student Information Security Contest (Final Round) 🏆
 -->
 # 📝 Research Projects
-- National Natural Science Foundation of China (NSFC, 62402225): Research on Key Technologies for Dynamic Vulnerability Repair of Online PLC Firmware. Participation. Jan. 2025 - Dec. 2027
-- National Project of XXX: Security Large Language Model (LLM). Participation. Dec. 2024 - Dec. 2025.
-- National Information Security Special Project of XXX. Participation. Jan. 2025 - Dec. 2025.
+- National Natural Science Foundation of China (NSFC, 62402225): Research on Key Technologies for Dynamic Vulnerability Repair of Online PLC Firmware. Participation. *Jan. 2025 - Dec. 2027*
+- National Project of XXX: Security Large Language Model (LLM). Participation. *Dec. 2024 - Dec. 2025*
+- National Information Security Special Project of XXX. Participation. *Jan. 2025 - Dec. 2025*
 
 
 # 📖 Educations
-- *2023.09 - now*, M.S., Nanjing University of Science and Technology, School of Cyber Science and Engineering.
-- *2019.09 - 2023.06*, B.Eng, Zhengzhou University, School of Cyber Science and Engineering.
+- M.S., Nanjing University of Science and Technology, School of Cyber Science and Engineering.  *2023.09 - now*
+- B.Eng, Zhengzhou University, School of Cyber Science and Engineering.  *2019.09 - 2023.06* 
 
 <!-- # 💻 Internships
 - *2020.04 - 2025.04*, [Keen Lab, Tencent](https://keenlab.tencent.com/), China.
