@@ -23,7 +23,7 @@ I specialize in **systems** and **firmware security**. During my master's studie
 
 📣 I am seeking <span style="color: red;">PhD</span> opportunities for September 2026.🥺
 
-Here are my [CV-PDF][[PDF](/paper/linkzard-security25.pdf)] and [[PDF](/paper/linkzard-security25.pdf)] for your reference, last updated in Aug. 2025.
+Here are my [[CV-PDF](/paper/CV_26_Fall_Phd_XupuHu.pdf)] and [[中文简历](/paper/呼栩朴中文学术简历.pdf)] for your reference, last updated in Aug. 2025.
 
 # 🔥 News
 - [*2025.07*] &nbsp;🎉 One paper accepted by **CCS 2025**!
