@@ -23,7 +23,7 @@ I specialize in **systems** and **firmware security**. During my master's studie
 
 # 📣 I am seeking <span style="color: red;">PhD</span> opportunities for September 2026.🥺
 
-- Here are my *CV-EN* [[pdf](/paper/CV_26_Fall_Phd_XupuHu.pdf)] and *CV-ZH* [[pdf](/paper/呼栩朴中文学术简历.pdf)], last updated in Aug. 2025.
+- Here are my **CV-EN** [[pdf](/paper/CV_26_Fall_Phd_XupuHu.pdf)] and **CV-ZH** [[pdf](/paper/呼栩朴中文学术简历.pdf)], last updated in Aug. 2025.
 
 # 🔥 News
 - [*2025.08*] &nbsp;🎉 One paper accepted by **CCS 2025**, and this achievement has been featured in the [school's news](https://scs.njust.edu.cn/65/96/c15611a353686/page.htm)! 
