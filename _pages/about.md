@@ -54,6 +54,11 @@ I specialize in **systems** and **firmware security**. During my master's studie
  
 - *2022.09*: 1st Place of The 13th National College Student Information Security Contest (Final Round) 🏆
 -->
+# 📝 Research Projects
+- National Natural Science Foundation of China (NSFC, 62402225): Research on Key Technologies for Dynamic Vulnerability Repair of Online PLC Firmware. Participation. Jan. 2025 - Dec. 2027
+- National Project of XXX: Security Large Language Model (LLM). Participation. Dec. 2024 - Dec. 2025.
+- National Information Security Special Project of XXX. Participation. Jan. 2025 - Dec. 2025.
+
 
 # 📖 Educations
 - *2023.09 - now*, M.S., Nanjing University of Science and Technology, School of Cyber Science and Engineering.
