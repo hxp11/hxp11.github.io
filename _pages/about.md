@@ -29,19 +29,23 @@ I specialize in **systems** and **firmware security**. During my master's studie
 
 
 # 📝 Publications 
-- `CCS'25` **Be Aware of What You Let Pass: Demystifying URL-based Authentication Bypass Vulnerability in Java Web Applications** [PDF]  
-  Qiyi Zhang<sup>\*</sup>, <u>Fengyu Liu<sup>*</sup></u>, Zihan Lin, Yuan Zhang.  
+- `CCS'25` **Dynamic Vulnerability Patching for Heterogeneous Embedded Systems Using Stack Frame Reconstruction** [PDF]  
+  Ming Zhou<sup>\*</sup> , <u>Xupu Hu</u>, Zhihao Wang, Haining Wang, Hui Wen, Limin Sun, Peng Zhang<sup>\*</sup>
   In *Proceedings of the 32nd ACM Conference on Computer and Communications Security (CCS)*, October 2025. (<span style="color:#B00C00">CCF-A</span>)  
 
-- `AIoTSys'25` **Make Agent Defeat Agent: Automatic Detection of Taint-Style Vulnerabilities in LLM-based Agents** [[PDF](/paper/agentfuzz-security25.pdf)]  
-  <u>Fengyu Liu</u>, Yuan Zhang, Jiaqi Luo, Jiarun Dai, Tian Chen, Letian Yuan, Zhengmin Yu, Youkun Shi, Ke Li, Hao Chen, Min Yang.  
-  In *Proceedings of the 34th USENIX Security Symposium (USENIX Security)*, August 2025. (<span style="color:#B00C00">CCF-A</span>)   
+- `AIoTSys'25` **BluePLP: Dynamic Vulnerability Patching for Heterogeneous BLE Devices** [PDF]   
+  <u>Xupu Hu</u>, Zhongfeng Jin, Tongjie Wei, Peng Zhang<sup>\*</sup> , Chonghua Wang, Ming Zhou<sup>\*</sup> 
+  In *International conference on Artificial Intelligence of Things and Systems (AIoTSys)*, August 2025. (AR: 38.9%, 37 / 95; Best paper finalist, 8 / 37)   
   
-- `Nana'25` **Pig in a Poke: Automatically Detecting and Exploiting Link Following Vulnerabilities in Windows File Operations** [[PDF](/paper/linkzard-security25.pdf)]  
+- `Nana'25` **Characterizing Network Threats Against Industrial Control Systems Using Honeypot Technology** [PDF]
+  Ming Zhou<sup>\*</sup>, Yunjun Ma, <u>Xupu Hu</u>, Ran Lin, Qiwen Wang, Weixuan Mao, Chengxiang Si 
+  In *International Conference on Networking and Network Applications (Nana)*, August 2025.    
+ 
+<!-- - `Nana'25` **Pig in a Poke: Automatically Detecting and Exploiting Link Following Vulnerabilities in Windows File Operations** [[PDF](/paper/linkzard-security25.pdf)]  
   Bocheng Xiang, Yuan Zhang, <u>Fengyu Liu</u>, Hao Huang, Zihan Lin, Min Yang.  
   In *Proceedings of the 34th USENIX Security Symposium (USENIX Security)*, August 2025. (<span style="color:#B00C00">CCF-A</span>)   
-  **<font color="#B00C00">&#9733; Honerable Mention Award (6.1%=25/407)</font>**
-    
+  **<font color="#B00C00">&#9733; Honerable Mention Award (6.1%=25/407)</font>** -->
+  
 
 <!-- # 🎖 Honors and Awards
 - *2025.05*: Distinguished Paper Award, S&P 2025 (<1% submission)
