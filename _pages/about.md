@@ -42,7 +42,7 @@ I specialize in **systems** and **firmware security**. During my master's studie
   In *International Conference on Networking and Network Applications (Nana)*, August 2025.    
  
 <!-- - `Nana'25` **Pig in a Poke: Automatically Detecting and Exploiting Link Following Vulnerabilities in Windows File Operations** [[PDF](/paper/linkzard-security25.pdf)]  
-  Bocheng Xiang, Yuan Zhang, <u>Fengyu Liu</u>, Hao Huang, Zihan Lin, Min Yang.  
+  Bocheng Xiang, Yuan Zhang, <u> Liu</u>, Hao Huang, Zihan Lin, Min Yang.  
   In *Proceedings of the 34th USENIX Security Symposium (USENIX Security)*, August 2025. (<span style="color:#B00C00">CCF-A</span>)   
   **<font color="#B00C00">&#9733; Honerable Mention Award (6.1%=25/407)</font>** -->
   
