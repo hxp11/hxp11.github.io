@@ -21,6 +21,8 @@ Hello, I'm Xupu Hu, a master's student at Nanjing University of Science and Tech
 I specialize in **systems** and **firmware security**. During my master's studies, my research focus was on **live patching technologies for embedded systems**. Additionally, I have a research interest in using Large Language Models (LLMs) to solve traditional challenges in the field of program analysis and to build efficient and intelligent binary program analysis tools. I am building a secure and reliable automated live patching system.
 
 
+📣 I am seeking <span style="color: red;">PhD</span> opportunities for September 2026.🥺
+
 # 🔥 News
 - [*2025.07*] &nbsp;🎉 One paper accepted by **CCS 2025**!
 - [*2025.07*] &nbsp;🎉 One paper accepted by **AIoTSys 2025**!
