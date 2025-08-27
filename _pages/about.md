@@ -18,7 +18,7 @@ redirect_from:
 
 Hello, I'm Xupu, a master's student at [Nanjing University of Science and Technology](https://scs.njust.edu.cn/main.htm), advised by Dr. [Ming Zhou](https://teacher.njust.edu.cn/wlkjaq/zm/list.htm) and Prof. [Peng Zhang](https://teacher.njust.edu.cn/wlkjaq/zp/list.htm).   
 
-I specialize in **systems** and **firmware security**. During my master's studies, my research focus was on **live patching technologies for embedded systems**. Additionally, I have a research interest in using Large Language Models (LLMs) to solve traditional challenges in the field of program analysis and to build efficient and intelligent binary program analysis tools. I am building a secure and reliable automated live patching system.  
+I specialize in **systems** and **firmware security**. During my master's studies, my research focus was on **live patching technologies for embedded systems**. Additionally, my research interests also include using Large Language Models (LLMs) to solve challenges in the traditional program analysis field and building efficient and intelligent binary program analysis tools. I am building a secure and reliable automated live patching system.  
 
 
 # 📣 I am seeking <span style="color: red;">PhD</span> opportunities for September 2026.🥺  
