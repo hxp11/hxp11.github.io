@@ -50,10 +50,9 @@ I specialize in **systems** and **firmware security**. During my master's studie
   In *Proceedings of the 34th USENIX Security Symposium (USENIX Security)*, August 2025. (<span style="color:#B00C00">CCF-A</span>)   
   **<font color="#B00C00">&#9733; Honerable Mention Award (6.1%=25/407)</font>** -->
   
-
 <!-- # 🎖 Honors and Awards
 - *2025.05*: Distinguished Paper Award, S&P 2025 (<1% submission)
- 
+
 - *2022.09*: 1st Place of The 13th National College Student Information Security Contest (Final Round) 🏆
 -->
 # 📝 Research Projects
